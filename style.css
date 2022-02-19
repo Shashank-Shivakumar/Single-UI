@@ -1,0 +1,1620 @@
+	.mediaViewInfo {
+		--web-view-name: Homepage - 1366px – 1;
+		--web-view-id: Homepage_-_1366px__1;
+		--web-scale-on-resize: true;
+		--web-enable-deep-linking: true;
+	}
+	:root {
+		--web-view-ids: Homepage_-_1366px__1;
+	}
+	* {
+		margin: 0;
+		padding: 0;
+		box-sizing: border-box;
+		border: none;
+	}
+  body{
+    min-height:100vh;
+    width:100vw;
+    overflow-x: hidden;
+  }
+	#Homepage_-_1366px__1 {
+		position: absolute;
+		width: 1920px;
+		height: 2952px;
+		background-color: rgba(230,230,230,1);
+		overflow: hidden;
+		--web-view-name: Homepage - 1366px – 1;
+		--web-view-id: Homepage_-_1366px__1;
+		--web-scale-on-resize: true;
+		--web-enable-deep-linking: true;
+	}
+	#image2 {
+		position: absolute;
+		width: 1920px;
+		height: 488px;
+		left: 0px;
+		top: 1227px;
+		overflow: visible;
+	}
+	#image1 {
+		position: absolute;
+		width: 1920px;
+		height: 491px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Page1 {
+		position: absolute;
+		width: 1642px;
+		height: 491px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Rectangle_412 {
+		opacity: 0.27;
+		fill: rgba(4,3,3,1);
+	}
+	.Rectangle_412 {
+		position: absolute;
+		overflow: visible;
+		width: 1642px;
+		height: 491px;
+		left: 0px;
+		top: 0px;
+	}
+	#NavBar {
+		position: absolute;
+		width: 1318.124px;
+		height: 50.382px;
+		left: 100.254px;
+		top: 43.5px;
+		overflow: visible;
+	}
+	#Login {
+		position: absolute;
+		width: 145.51px;
+		height: 47.764px;
+		left: 1172.614px;
+		top: 2.618px;
+		overflow: visible;
+	}
+	#Path_38 {
+		fill: rgba(45,110,209,1);
+	}
+	.Path_38 {
+		filter: drop-shadow(0px 1px 3px rgba(0, 0, 0, 0.2));
+		overflow: visible;
+		position: absolute;
+		width: 154.51px;
+		height: 56.764px;
+		left: 0px;
+		top: 0px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#LOG_IN {
+		left: 39.255px;
+		top: 10.382px;
+		position: absolute;
+		overflow: visible;
+		width: 68px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 20px;
+		color: rgba(255,255,255,1);
+	}
+	#Logo {
+		position: absolute;
+		width: 159px;
+		height: 37px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Learnest {
+		left: 60px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 100px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 25px;
+		color: rgba(45,110,209,1);
+	}
+	#Ellipse_15 {
+		fill: rgba(45,110,209,1);
+	}
+	.Ellipse_15 {
+		position: absolute;
+		overflow: visible;
+		width: 48px;
+		height: 37px;
+		left: 0px;
+		top: 0px;
+	}
+	#Learn_online_through_self-pace {
+		filter: drop-shadow(0px 1px 1px rgba(0, 0, 0, 0.424));
+		left: 468.982px;
+		top: 136px;
+		position: absolute;
+		overflow: visible;
+		width: 581px;
+		white-space: nowrap;
+		line-height: 56px;
+		margin-top: -8px;
+		text-align: center;
+		font-family: Playfair Display;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 40px;
+		color: rgba(255,255,255,1);
+	}
+	#Learn_through_Self-Paced_Cours {
+		left: 413.316px;
+		top: 262px;
+		position: absolute;
+		overflow: visible;
+		width: 693px;
+		height: 69px;
+		line-height: 24px;
+		margin-top: -4px;
+		text-align: center;
+		font-family: Roboto;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 16px;
+		color: rgba(255,255,255,1);
+	}
+	#Signup {
+		position: absolute;
+		width: 379.298px;
+		height: 48px;
+		left: 570.55px;
+		top: 307px;
+		overflow: visible;
+	}
+	#Group_5 {
+		position: absolute;
+		width: 379.298px;
+		height: 48px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Group_6 {
+		position: absolute;
+		width: 379.298px;
+		height: 48px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Rectangle_17 {
+		fill: rgba(45,110,209,1);
+	}
+	.Rectangle_17 {
+		filter: drop-shadow(0px 1px 3px rgba(0, 0, 0, 0.2));
+		position: absolute;
+		overflow: visible;
+		width: 388.298px;
+		height: 57px;
+		left: 0px;
+		top: 0px;
+	}
+	#Group_7 {
+		position: absolute;
+		width: 136px;
+		height: 21px;
+		left: 121.649px;
+		top: 13.5px;
+		overflow: visible;
+	}
+	#SIGN_UP_FOR_FREE {
+		left: 0px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 137px;
+		white-space: nowrap;
+		line-height: 24px;
+		margin-top: -4px;
+		text-align: center;
+		font-family: Roboto;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 16px;
+		color: rgba(255,255,255,1);
+	}
+	#Page2 {
+		position: absolute;
+		width: 1642px;
+		height: 736px;
+		left: 0px;
+		top: 491px;
+		overflow: visible;
+	}
+	#Rectangle_411 {
+		fill: rgba(255,255,255,1);
+	}
+	.Rectangle_411 {
+		position: absolute;
+		overflow: visible;
+		width: 1642px;
+		height: 262px;
+		left: 0px;
+		top: 474px;
+	}
+	#Rectangle_395 {
+		fill: rgba(241,241,241,1);
+	}
+	.Rectangle_395 {
+		position: absolute;
+		overflow: visible;
+		width: 1642px;
+		height: 475px;
+		left: 0px;
+		top: 0px;
+	}
+	#Group_19 {
+		position: absolute;
+		width: 1054px;
+		height: 339.5px;
+		left: 245.113px;
+		top: 304.75px;
+		overflow: visible;
+	}
+	#Group_17 {
+		position: absolute;
+		width: 1054px;
+		height: 339.5px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Group_16 {
+		position: absolute;
+		width: 334px;
+		height: 339.5px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Rectangle_406 {
+		fill: rgba(255,255,255,1);
+	}
+	.Rectangle_406 {
+		filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+		position: absolute;
+		overflow: visible;
+		width: 352px;
+		height: 338px;
+		left: 0px;
+		top: 0px;
+	}
+	#Group_12 {
+		position: absolute;
+		width: 65px;
+		height: 65px;
+		left: 40px;
+		top: 30.5px;
+		overflow: visible;
+	}
+	#Ellipse_16 {
+		fill: rgba(45,110,209,1);
+	}
+	.Ellipse_16 {
+		position: absolute;
+		overflow: visible;
+		width: 65px;
+		height: 65px;
+		left: 0px;
+		top: 0px;
+	}
+	#Ellipse_17 {
+		fill: rgba(103,188,236,1);
+	}
+	.Ellipse_17 {
+		position: absolute;
+		overflow: visible;
+		width: 50px;
+		height: 51px;
+		left: 8px;
+		top: 7px;
+	}
+	#Ellipse_18 {
+		fill: rgba(255,255,255,1);
+	}
+	.Ellipse_18 {
+		position: absolute;
+		overflow: visible;
+		width: 29px;
+		height: 26px;
+		left: 18px;
+		top: 19px;
+	}
+	#Lorem_ipsum_dolor_sit_amet_con {
+		left: 40px;
+		top: 171.5px;
+		position: absolute;
+		overflow: visible;
+		width: 264px;
+		height: 168px;
+		line-height: 30px;
+		margin-top: -8px;
+		text-align: left;
+		font-family: Roboto;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 14px;
+		color: rgba(4,3,3,1);
+		letter-spacing: 0.03px;
+	}
+	#Self-Paced_Courses {
+		left: 40px;
+		top: 126.5px;
+		position: absolute;
+		overflow: visible;
+		width: 179px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Roboto;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 20px;
+		color: rgba(0,0,0,1);
+	}
+	#Group_14 {
+		position: absolute;
+		width: 334px;
+		height: 339.5px;
+		left: 360px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Rectangle_408 {
+		fill: rgba(255,255,255,1);
+	}
+	.Rectangle_408 {
+		filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+		position: absolute;
+		overflow: visible;
+		width: 352px;
+		height: 338px;
+		left: 0px;
+		top: 0px;
+	}
+	#Group_13 {
+		position: absolute;
+		width: 65px;
+		height: 65px;
+		left: 40px;
+		top: 30.5px;
+		overflow: visible;
+	}
+	#Ellipse_16_bg {
+		fill: rgba(45,110,209,1);
+	}
+	.Ellipse_16_bg {
+		position: absolute;
+		overflow: visible;
+		width: 65px;
+		height: 65px;
+		left: 0px;
+		top: 0px;
+	}
+	#Ellipse_17_bh {
+		fill: rgba(103,188,236,1);
+	}
+	.Ellipse_17_bh {
+		position: absolute;
+		overflow: visible;
+		width: 50px;
+		height: 51px;
+		left: 8px;
+		top: 7px;
+	}
+	#Ellipse_18_bi {
+		fill: rgba(255,255,255,1);
+	}
+	.Ellipse_18_bi {
+		position: absolute;
+		overflow: visible;
+		width: 29px;
+		height: 26px;
+		left: 18px;
+		top: 19px;
+	}
+	#Lorem_ipsum_dolor_sit_amet_con_bj {
+		left: 40px;
+		top: 171.5px;
+		position: absolute;
+		overflow: visible;
+		width: 264px;
+		height: 168px;
+		line-height: 30px;
+		margin-top: -8px;
+		text-align: left;
+		font-family: Roboto;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 14px;
+		color: rgba(4,3,3,1);
+		letter-spacing: 0.03px;
+	}
+	#Access_to_Top_Resources {
+		left: 40px;
+		top: 124.5px;
+		position: absolute;
+		overflow: visible;
+		width: 227px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Roboto;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 20px;
+		color: rgba(0,0,0,1);
+	}
+	#Group_15 {
+		position: absolute;
+		width: 334px;
+		height: 339.5px;
+		left: 720px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Rectangle_408_bm {
+		fill: rgba(255,255,255,1);
+	}
+	.Rectangle_408_bm {
+		filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+		position: absolute;
+		overflow: visible;
+		width: 352px;
+		height: 338px;
+		left: 0px;
+		top: 0px;
+	}
+	#Group_13_bn {
+		position: absolute;
+		width: 65px;
+		height: 65px;
+		left: 40px;
+		top: 30.5px;
+		overflow: visible;
+	}
+	#Ellipse_16_bo {
+		fill: rgba(45,110,209,1);
+	}
+	.Ellipse_16_bo {
+		position: absolute;
+		overflow: visible;
+		width: 65px;
+		height: 65px;
+		left: 0px;
+		top: 0px;
+	}
+	#Ellipse_17_bp {
+		fill: rgba(103,188,236,1);
+	}
+	.Ellipse_17_bp {
+		position: absolute;
+		overflow: visible;
+		width: 50px;
+		height: 51px;
+		left: 8px;
+		top: 7px;
+	}
+	#Ellipse_18_bq {
+		fill: rgba(255,255,255,1);
+	}
+	.Ellipse_18_bq {
+		position: absolute;
+		overflow: visible;
+		width: 29px;
+		height: 26px;
+		left: 18px;
+		top: 19px;
+	}
+	#Lorem_ipsum_dolor_sit_amet_con_br {
+		left: 40px;
+		top: 171.5px;
+		position: absolute;
+		overflow: visible;
+		width: 259px;
+		height: 168px;
+		line-height: 30px;
+		margin-top: -8px;
+		text-align: left;
+		font-family: Roboto;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 14px;
+		color: rgba(4,3,3,1);
+		letter-spacing: 0.03px;
+	}
+	#ID300_Unique_Courses {
+		left: 40px;
+		top: 124.5px;
+		position: absolute;
+		overflow: visible;
+		width: 193px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Roboto;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 20px;
+		color: rgba(0,0,0,1);
+	}
+	#Group_20 {
+		position: absolute;
+		width: 1124.224px;
+		height: 203px;
+		left: 236px;
+		top: 68px;
+		overflow: visible;
+	}
+	#Self-Paced_Hybrid__Courses_on_ {
+		left: 0px;
+		top: 54px;
+		position: absolute;
+		overflow: visible;
+		width: 494px;
+		height: 149px;
+		line-height: 50px;
+		margin-top: -5px;
+		text-align: left;
+		font-family: Arial;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 40px;
+		color: rgba(4,3,3,1);
+		letter-spacing: 0.05px;
+	}
+	#WHY_CHOOSE_LEARNEST_ {
+		left: 0px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 166px;
+		white-space: nowrap;
+		line-height: 24px;
+		margin-top: -6px;
+		text-align: left;
+		font-family: Arial;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 12px;
+		color: rgba(4,3,3,1);
+	}
+	#Lorem_ipsum_dolor_sit_amet_con_bw {
+		left: 646.224px;
+		top: 16.5px;
+		position: absolute;
+		overflow: visible;
+		width: 479px;
+		height: 121px;
+		line-height: 30px;
+		margin-top: -6px;
+		text-align: left;
+		font-family: Arial;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 18px;
+		color: rgba(4,3,3,1);
+		letter-spacing: 0.03px;
+	}
+	#Page3 {
+		position: absolute;
+		width: 1642px;
+		height: 488px;
+		left: 0px;
+		top: 1227px;
+		overflow: visible;
+	}
+	#zan-AmEeEB1g3XQ-unsplash {
+		opacity: 0.6;
+		fill: rgba(4,3,3,1);
+	}
+	.zan-AmEeEB1g3XQ-unsplash {
+		position: absolute;
+		overflow: visible;
+		width: 1642px;
+		height: 488px;
+		left: 0px;
+		top: 0px;
+	}
+	#Group_21 {
+		position: absolute;
+		width: 1120.7px;
+		height: 328px;
+		left: 237px;
+		top: 160px;
+		overflow: visible;
+	}
+	#Become_part_of_growing_communi {
+		left: 0px;
+		top: 47px;
+		position: absolute;
+		overflow: visible;
+		width: 494px;
+		height: 281px;
+		line-height: 50px;
+		margin-top: -4px;
+		text-align: left;
+		font-family: Arial;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 42px;
+		color: rgba(255,255,255,1);
+		letter-spacing: 0.05px;
+	}
+	#THERES_IS_MORE_FOR_YOU {
+		left: 0px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 164px;
+		white-space: nowrap;
+		line-height: 24px;
+		margin-top: -6px;
+		text-align: left;
+		font-family: Arial;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 12px;
+		color: rgba(255,255,255,1);
+	}
+	#Lorem_ipsum_dolor_sit_amet_con_b {
+		left: 642.7px;
+		top: 61.174px;
+		position: absolute;
+		overflow: visible;
+		width: 479px;
+		height: 121px;
+		line-height: 30px;
+		margin-top: -6px;
+		text-align: left;
+		font-family: Arial;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 18px;
+		color: rgba(255,255,255,1);
+		letter-spacing: 0.03px;
+	}
+	#Page4 {
+		position: absolute;
+		width: 1642px;
+		height: 583.285px;
+		left: 0px;
+		top: 1717.715px;
+		overflow: visible;
+	}
+	#Rectangle_Board_4 {
+		fill: rgba(234,232,232,1);
+	}
+	.Rectangle_Board_4 {
+		overflow: visible;
+		position: absolute;
+		width: 1642px;
+		height: 583.285px;
+		left: 0px;
+		top: 0px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Grid_Board_2 {
+		position: absolute;
+		width: 1250.8px;
+		height: 354.5px;
+		left: 155.033px;
+		top: 114.392px;
+		overflow: hidden;
+	}
+	#Grid_Board_2_0 {
+		position: absolute;
+		width: 368px;
+		height: 327.5px;
+		left: 9px;
+		top: 6px;
+		overflow: visible;
+	}
+	#Rectangle_406_b {
+		fill: rgba(255,255,255,1);
+	}
+	.Rectangle_406_b {
+		filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+		position: absolute;
+		overflow: visible;
+		width: 384.8px;
+		height: 345.5px;
+		left: 0px;
+		top: 0px;
+	}
+	#Group_23 {
+		position: absolute;
+		width: 147.805px;
+		height: 176.295px;
+		left: 29.734px;
+		top: 102.604px;
+		overflow: visible;
+	}
+	#Lorem_ipsum_dolor_sit_amet_con_ca {
+		left: 1.217px;
+		top: 67.693px;
+		position: absolute;
+		overflow: visible;
+		width: 148.805px;
+		height: 109.208984375px;
+		line-height: 25px;
+		margin-top: -5.5px;
+		text-align: left;
+		font-family: Roboto;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 14px;
+		color: rgba(4,3,3,1);
+		letter-spacing: 0.03px;
+	}
+	#Tech__Summits {
+		left: 0px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 81px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Roboto;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 20px;
+		color: rgba(4,3,3,1);
+	}
+	#austin-distel-mpN7xjKQ_Ns-unsp {
+		position: absolute;
+		width: 178px;
+		height: 327px;
+		left: 190px;
+		top: 0.5px;
+		overflow: visible;
+	}
+	#Grid_Board_2_1 {
+		position: absolute;
+		width: 368px;
+		height: 327.5px;
+		left: 440px;
+		top: 6px;
+		overflow: visible;
+	}
+	#Rectangle_406_cd {
+		fill: rgba(255,255,255,1);
+	}
+	.Rectangle_406_cd {
+		filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+		position: absolute;
+		overflow: visible;
+		width: 384.8px;
+		height: 345.5px;
+		left: 0px;
+		top: 0px;
+	}
+	#Group_23_ce {
+		position: absolute;
+		width: 147.805px;
+		height: 176.295px;
+		left: 29.734px;
+		top: 102.604px;
+		overflow: visible;
+	}
+	#Lorem_ipsum_dolor_sit_amet_con_cf {
+		left: 1.217px;
+		top: 67.693px;
+		position: absolute;
+		overflow: visible;
+		width: 148.805px;
+		height: 109.208984375px;
+		line-height: 25px;
+		margin-top: -5.5px;
+		text-align: left;
+		font-family: Roboto;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 14px;
+		color: rgba(4,3,3,1);
+		letter-spacing: 0.03px;
+	}
+	#Bootcamp {
+		left: 0px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 93px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Roboto;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 20px;
+		color: rgba(4,3,3,1);
+	}
+	#christin-hume-slbqShqAhEo-unsp {
+		position: absolute;
+		width: 178px;
+		height: 327px;
+		left: 190px;
+		top: 0.5px;
+		overflow: visible;
+	}
+	#Grid_Board_2_2 {
+		position: absolute;
+		width: 368px;
+		height: 327.5px;
+		left: 871px;
+		top: 6px;
+		overflow: visible;
+	}
+	#Rectangle_406_cj {
+		fill: rgba(255,255,255,1);
+	}
+	.Rectangle_406_cj {
+		filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+		position: absolute;
+		overflow: visible;
+		width: 384.8px;
+		height: 345.5px;
+		left: 0px;
+		top: 0px;
+	}
+	#Group_23_ck {
+		position: absolute;
+		width: 147.805px;
+		height: 176.295px;
+		left: 29.734px;
+		top: 102.604px;
+		overflow: visible;
+	}
+	#Lorem_ipsum_dolor_sit_amet_con_cl {
+		left: 1.217px;
+		top: 67.693px;
+		position: absolute;
+		overflow: visible;
+		width: 148.805px;
+		height: 109.208984375px;
+		line-height: 25px;
+		margin-top: -5.5px;
+		text-align: left;
+		font-family: Roboto;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 14px;
+		color: rgba(4,3,3,1);
+		letter-spacing: 0.03px;
+	}
+	#Tech__Conference {
+		left: 0px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 105px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Roboto;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 20px;
+		color: rgba(4,3,3,1);
+	}
+	#siavosh-hosseini-F5QBwO8X1KE-u {
+		position: absolute;
+		width: 178px;
+		height: 327px;
+		left: 190px;
+		top: 0.5px;
+		overflow: visible;
+	}
+	#Page5 {
+		position: absolute;
+		width: 1642px;
+		height: 454px;
+		left: 0px;
+		top: 2293px;
+		overflow: visible;
+	}
+	#Rectangle_414 {
+		fill: rgba(255,255,255,1);
+	}
+	.Rectangle_414 {
+		position: absolute;
+		overflow: visible;
+		width: 1642px;
+		height: 454px;
+		left: 0px;
+		top: 0px;
+	}
+	#Logo_cq {
+		position: absolute;
+		width: 159px;
+		height: 37px;
+		left: 97.278px;
+		top: 118.051px;
+		overflow: visible;
+	}
+	#Learnest_cr {
+		left: 60px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 100px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 25px;
+		color: rgba(45,110,209,1);
+	}
+	#Ellipse_19 {
+		fill: rgba(45,110,209,1);
+	}
+	.Ellipse_19 {
+		position: absolute;
+		overflow: visible;
+		width: 48px;
+		height: 37px;
+		left: 0px;
+		top: 0px;
+	}
+	#Lorem_ipsum_dolor_sit_amet_con_ct {
+		left: 93.238px;
+		top: 182.363px;
+		position: absolute;
+		overflow: visible;
+		width: 317px;
+		height: 121px;
+		line-height: 20px;
+		margin-top: -4px;
+		text-align: left;
+		font-family: Arial;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 12px;
+		color: rgba(182,176,176,1);
+		letter-spacing: 0.03px;
+	}
+	#Course_Categories {
+		position: absolute;
+		width: 222px;
+		height: 197.903px;
+		left: 631.235px;
+		top: 127px;
+		overflow: visible;
+	}
+	#COURSE_CATEGORIES {
+		left: 0px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 223px;
+		height: 26px;
+		line-height: 20px;
+		margin-top: -3.5px;
+		text-align: left;
+		font-family: Arial;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 13px;
+		color: rgba(182,176,176,1);
+		letter-spacing: 0.03px;
+	}
+	#Repeat_Grid_4 {
+		position: absolute;
+		width: 222px;
+		height: 141.903px;
+		left: 0px;
+		top: 56px;
+		overflow: hidden;
+	}
+	#Repeat_Grid_4_0 {
+		position: absolute;
+		width: 222px;
+		height: 26px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Mobile_Apps_Development {
+		left: 0px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 223px;
+		height: 26px;
+		line-height: 20px;
+		margin-top: -3.5px;
+		text-align: left;
+		font-family: Arial;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 13px;
+		color: rgba(4,3,3,1);
+		letter-spacing: 0.03px;
+	}
+	#Repeat_Grid_4_1 {
+		position: absolute;
+		width: 222px;
+		height: 26px;
+		left: 0px;
+		top: 29px;
+		overflow: visible;
+	}
+	#Programming_Languages {
+		left: 0px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 223px;
+		height: 26px;
+		line-height: 20px;
+		margin-top: -3.5px;
+		text-align: left;
+		font-family: Arial;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 13px;
+		color: rgba(4,3,3,1);
+		letter-spacing: 0.03px;
+	}
+	#Repeat_Grid_4_2 {
+		position: absolute;
+		width: 222px;
+		height: 26px;
+		left: 0px;
+		top: 58px;
+		overflow: visible;
+	}
+	#Databases {
+		left: 0px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 223px;
+		height: 26px;
+		line-height: 20px;
+		margin-top: -3.5px;
+		text-align: left;
+		font-family: Arial;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 13px;
+		color: rgba(4,3,3,1);
+		letter-spacing: 0.03px;
+	}
+	#Repeat_Grid_4_3 {
+		position: absolute;
+		width: 222px;
+		height: 26px;
+		left: 0px;
+		top: 87px;
+		overflow: visible;
+	}
+	#Software_Testing {
+		left: 0px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 223px;
+		height: 26px;
+		line-height: 20px;
+		margin-top: -3.5px;
+		text-align: left;
+		font-family: Arial;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 13px;
+		color: rgba(4,3,3,1);
+		letter-spacing: 0.03px;
+	}
+	#Repeat_Grid_4_4 {
+		position: absolute;
+		width: 222px;
+		height: 26px;
+		left: 0px;
+		top: 116px;
+		overflow: visible;
+	}
+	#Software_Engineering {
+		left: 0px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 223px;
+		height: 26px;
+		line-height: 20px;
+		margin-top: -3.5px;
+		text-align: left;
+		font-family: Arial;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 13px;
+		color: rgba(4,3,3,1);
+		letter-spacing: 0.03px;
+	}
+	#Path_42 {
+		fill: rgba(182,176,176,1);
+	}
+	.Path_42 {
+		overflow: visible;
+		position: absolute;
+		width: 167px;
+		height: 1px;
+		left: 0px;
+		top: 26px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Group_32 {
+		position: absolute;
+		width: 222px;
+		height: 176.363px;
+		left: 940.834px;
+		top: 127px;
+		overflow: visible;
+	}
+	#For_Institutes {
+		position: absolute;
+		width: 222px;
+		height: 176.363px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#FOR_INSTITUTES_dg {
+		left: 0px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 223px;
+		height: 26px;
+		line-height: 20px;
+		margin-top: -3.5px;
+		text-align: left;
+		font-family: Arial;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 13px;
+		color: rgba(182,176,176,1);
+		letter-spacing: 0.03px;
+	}
+	#Institute_Sign_Up {
+		left: 0px;
+		top: 58.883px;
+		position: absolute;
+		overflow: visible;
+		width: 223px;
+		height: 26px;
+		line-height: 20px;
+		margin-top: -3.5px;
+		text-align: left;
+		font-family: Arial;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 13px;
+		color: rgba(4,3,3,1);
+		letter-spacing: 0.03px;
+	}
+	#Institute_Sign_In {
+		left: 0px;
+		top: 89.377px;
+		position: absolute;
+		overflow: visible;
+		width: 223px;
+		height: 26px;
+		line-height: 20px;
+		margin-top: -3.5px;
+		text-align: left;
+		font-family: Arial;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 13px;
+		color: rgba(4,3,3,1);
+		letter-spacing: 0.03px;
+	}
+	#Send_a_Request {
+		left: 0px;
+		top: 119.87px;
+		position: absolute;
+		overflow: visible;
+		width: 223px;
+		height: 26px;
+		line-height: 20px;
+		margin-top: -3.5px;
+		text-align: left;
+		font-family: Arial;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 13px;
+		color: rgba(4,3,3,1);
+		letter-spacing: 0.03px;
+	}
+	#Contact_foe_Queries {
+		left: 0px;
+		top: 150.363px;
+		position: absolute;
+		overflow: visible;
+		width: 223px;
+		height: 26px;
+		line-height: 20px;
+		margin-top: -3.5px;
+		text-align: left;
+		font-family: Arial;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 13px;
+		color: rgba(4,3,3,1);
+		letter-spacing: 0.03px;
+	}
+	#Path_43 {
+		fill: rgba(182,176,176,1);
+	}
+	.Path_43 {
+		overflow: visible;
+		position: absolute;
+		width: 167px;
+		height: 1px;
+		left: 0px;
+		top: 26px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#FOR_INSTITUTES_dg {
+		left: 0px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 223px;
+		height: 26px;
+		line-height: 20px;
+		margin-top: -3.5px;
+		text-align: left;
+		font-family: Arial;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 13px;
+		color: rgba(182,176,176,1);
+		letter-spacing: 0.03px;
+	}
+	#Path_44 {
+		fill: rgba(182,176,176,1);
+	}
+	.Path_44 {
+		overflow: visible;
+		position: absolute;
+		width: 167px;
+		height: 1px;
+		left: 0px;
+		top: 26px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#FOLLOW_US_EVERYWHERE {
+		left: 1217.215px;
+		top: 127px;
+		position: absolute;
+		overflow: visible;
+		width: 180px;
+		height: 20px;
+		line-height: 20px;
+		margin-top: -3.5px;
+		text-align: left;
+		font-family: Arial;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 13px;
+		color: rgba(182,176,176,1);
+		letter-spacing: 0.03px;
+	}
+	#Line_1 {
+		fill: transparent;
+	}
+	.Line_1 {
+		overflow: visible;
+		position: absolute;
+		width: 197.5px;
+		height: 1px;
+		left: 1360.339px;
+		top: 151.5px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Social_Media {
+		position: absolute;
+		width: 164px;
+		height: 32px;
+		left: 1219.191px;
+		top: 163.812px;
+		overflow: visible;
+	}
+	#Twitter {
+		position: absolute;
+		width: 32px;
+		height: 32px;
+		left: 44px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Ellipse_21 {
+		fill: rgba(45,110,209,1);
+	}
+	.Ellipse_21 {
+		position: absolute;
+		overflow: visible;
+		width: 32px;
+		height: 32px;
+		left: 0px;
+		top: 0px;
+	}
+	#Component_9 {
+		position: absolute;
+		width: 16px;
+		height: 16px;
+		left: 8px;
+		top: 8px;
+		overflow: visible;
+	}
+	#Rectangle_393 {
+		fill: transparent;
+	}
+	.Rectangle_393 {
+		position: absolute;
+		overflow: visible;
+		width: 16px;
+		height: 16px;
+		left: 0px;
+		top: 0px;
+	}
+	#Path_2 {
+		fill: rgba(255,255,255,1);
+	}
+	.Path_2 {
+		overflow: visible;
+		position: absolute;
+		width: 16px;
+		height: 12.978px;
+		left: 0px;
+		top: 2px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Facebook {
+		position: absolute;
+		width: 32px;
+		height: 32px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Ellipse_22 {
+		fill: rgba(45,110,209,1);
+	}
+	.Ellipse_22 {
+		position: absolute;
+		overflow: visible;
+		width: 32px;
+		height: 32px;
+		left: 0px;
+		top: 0px;
+	}
+	#Component_10 {
+		position: absolute;
+		width: 16px;
+		height: 16.001px;
+		left: 8px;
+		top: 8px;
+		overflow: visible;
+	}
+	#Rectangle_392 {
+		fill: transparent;
+	}
+	.Rectangle_392 {
+		position: absolute;
+		overflow: visible;
+		width: 16px;
+		height: 16px;
+		left: 0px;
+		top: 0px;
+	}
+	#Path_1 {
+		fill: rgba(255,255,255,1);
+	}
+	.Path_1 {
+		overflow: visible;
+		position: absolute;
+		width: 8.355px;
+		height: 16px;
+		left: 4px;
+		top: 0.001px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Instagram {
+		position: absolute;
+		width: 32px;
+		height: 32px;
+		left: 132px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Ellipse_20 {
+		fill: rgba(45,110,209,1);
+	}
+	.Ellipse_20 {
+		position: absolute;
+		overflow: visible;
+		width: 32px;
+		height: 32px;
+		left: 0px;
+		top: 0px;
+	}
+	#Component_8 {
+		position: absolute;
+		width: 16px;
+		height: 16px;
+		left: 8px;
+		top: 8px;
+		overflow: visible;
+	}
+	#Path_3 {
+		fill: rgba(255,255,255,1);
+	}
+	.Path_3 {
+		overflow: visible;
+		position: absolute;
+		width: 16px;
+		height: 16px;
+		left: 0px;
+		top: 0px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Linkedin {
+		position: absolute;
+		width: 32px;
+		height: 32px;
+		left: 88px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Ellipse_23 {
+		fill: rgba(45,110,209,1);
+	}
+	.Ellipse_23 {
+		position: absolute;
+		overflow: visible;
+		width: 32px;
+		height: 32px;
+		left: 0px;
+		top: 0px;
+	}
+	#in {
+		left: 9px;
+		top: 5px;
+		position: absolute;
+		overflow: visible;
+		width: 15px;
+		white-space: nowrap;
+		line-height: 20px;
+		margin-top: -1px;
+		text-align: left;
+		font-family: Calibri;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 18px;
+		color: rgba(255,255,255,1);
+		letter-spacing: 0.03px;
+	}
+	#Footer {
+		position: absolute;
+		width: 1642px;
+		height: 205px;
+		left: 0px;
+		top: 2747px;
+		overflow: visible;
+	}
+	#Rectangle_415 {
+		fill: rgba(234,232,232,1);
+	}
+	.Rectangle_415 {
+		position: absolute;
+		overflow: visible;
+		width: 1642px;
+		height: 205px;
+		left: 0px;
+		top: 0px;
+	}
+	#Privacy_policy {
+		left: 95px;
+		top: 74px;
+		position: absolute;
+		overflow: visible;
+		width: 87px;
+		white-space: nowrap;
+		line-height: 20px;
+		margin-top: -2.5px;
+		text-align: left;
+		font-family: Calibri;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 15px;
+		color: rgba(4,3,3,1);
+		letter-spacing: 0.03px;
+	}
+	#Terms_of_use {
+		left: 241px;
+		top: 74px;
+		position: absolute;
+		overflow: visible;
+		width: 80px;
+		white-space: nowrap;
+		line-height: 20px;
+		margin-top: -2.5px;
+		text-align: left;
+		font-family: Calibri;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 15px;
+		color: rgba(4,3,3,1);
+		letter-spacing: 0.03px;
+	}
+	#Return_and_refunds {
+		left: 380px;
+		top: 74px;
+		position: absolute;
+		overflow: visible;
+		width: 122px;
+		white-space: nowrap;
+		line-height: 20px;
+		margin-top: -2.5px;
+		text-align: left;
+		font-family: Calibri;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 15px;
+		color: rgba(4,3,3,1);
+		letter-spacing: 0.03px;
+	}
+	#Copyright__2019_Learnest_All_R {
+		left: 95px;
+		top: 113px;
+		position: absolute;
+		overflow: visible;
+		width: 300px;
+		white-space: nowrap;
+		line-height: 20px;
+		margin-top: -2.5px;
+		text-align: left;
+		font-family: Calibri;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 15px;
+		color: rgba(182,176,176,1);
+		letter-spacing: 0.03px;
+	}
+	#Learnest_TM_is_a_registered_tr {
+		left: 1055px;
+		top: 89px;
+		position: absolute;
+		overflow: visible;
+		width: 337px;
+		white-space: nowrap;
+		line-height: 20px;
+		margin-top: -2.5px;
+		text-align: left;
+		font-family: Calibri;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 15px;
+		color: rgba(182,176,176,1);
+		letter-spacing: 0.03px;
+	}
